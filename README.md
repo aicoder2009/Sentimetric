@@ -6,7 +6,8 @@
 - [X] Meaningful functionality
 - [X] output
 - [X] meaningful variables
-- [ ] meaningful comments > MIT app inventor does not provide comment blocks
+- [ ] meaningful comments
+> MIT app inventor does not provide comment blocks
 - [ ] some way of data stored in a list(s)
 - [ ] Same list(s) being used in fulfilling the programs purpose
 - [ ] keep track of what data is being stored
