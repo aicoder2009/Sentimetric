@@ -7,13 +7,12 @@
 - [X] Meaningful functionality
 - [X] output
 - [X] meaningful variables
-- [ ] meaningful comments
+- meaningful comments
 > MIT app inventor does not provide comment blocks
-- [ ] some way of data stored in a list(s)
-- [ ] Same list(s) being used in fulfilling the programs purpose
-- [ ] keep track of what data is being stored
-- [ ] Must have data abstraction
-- [ ] Must manage complexity : must have a list being used to manage complexity in the program Filter , Reduce, Map
-- [ ] Must have Procedural Abstraction: one segment showing a student developed procedure with at least 1 parameter that has an effect on the functionality of the procedure; one segment showing where the student developed procedure is being called 
+- [X] some way of data stored in a list(s)
+- [X] Same list(s) being used in fulfilling the programs purpose
+- [X] Must have data abstraction
+- [X] Must manage complexity : must have a list being used to manage complexity in the program Filter , Reduce, Map
+- [X] Must have Procedural Abstraction: one segment showing a student developed procedure with at least 1 parameter that has an effect on the functionality of the procedure; one segment showing where the student developed procedure is being called 
 - [ ] Must have Algorithm Implementation: Code segment of a student developed algorithm that includes: Sequencing, Selection, Iteration
 - [ ] Must have testing: 2 direct calls to a selected procedure, each call must pass different arguments that case difference  segments of code in the algorithm to execute, indetifies the result of each call 
