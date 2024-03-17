@@ -14,5 +14,5 @@
 - [X] Must have data abstraction
 - [X] Must manage complexity : must have a list being used to manage complexity in the program Filter , Reduce, Map
 - [X] Must have Procedural Abstraction: one segment showing a student developed procedure with at least 1 parameter that has an effect on the functionality of the procedure; one segment showing where the student developed procedure is being called 
-- [ ] Must have Algorithm Implementation: Code segment of a student developed algorithm that includes: Sequencing, Selection, Iteration
-- [ ] Must have testing: 2 direct calls to a selected procedure, each call must pass different arguments that case difference  segments of code in the algorithm to execute, indetifies the result of each call 
+- [X] Must have Algorithm Implementation: Code segment of a student developed algorithm that includes: Sequencing, Selection, Iteration
+- [X] Must have testing: 2 direct calls to a selected procedure, each call must pass different arguments that case difference  segments of code in the algorithm to execute, indetifies the result of each call 
